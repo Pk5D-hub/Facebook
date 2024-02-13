@@ -1,0 +1,238 @@
+
+body{
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed
+    
+}#globalContainer {
+    margin: 0 auto;
+    position: relative;
+    zoom: 1;
+}
+.main{
+    overflow: initial;
+    background-color:#f0f2f5;
+    line-height: 1.34px;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    
+}
+.left_side{
+    padding-bottom: 112px;
+    padding-top: 72px;
+    width: auto;
+    margin: 0;
+    line-height: 1.34;
+    font-size: 12px;
+    
+    
+}.centre{
+    width: 980px;
+    margin: 0 auto;
+    padding: 20px 0;
+    vertical-align:middle;
+    
+}
+.fb{
+    height: 106px; 
+    margin: -28px; 
+    padding-top: 150px;
+    padding-left: -10px;
+    font-family: inherit;
+    
+    
+    
+}.fond{
+    font-size: 28px;
+    line-height: 32px;
+    width: 500px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    padding: 10 0 20px;
+
+} .box{
+   width: 396px;
+    background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+   box-sizing: border-box;
+   margin-top: -250px;
+   margin-left: 575px; 
+   vertical-align: middle;
+    
+    
+}.id{
+    margin: 10px;
+    display: inline-block;
+    background-color: #fff;
+    
+}
+.Email{
+    background-color:#fff;
+    margin: 10px 10px;
+    display: inline-block;
+    border-color: #1877f2;
+    font-size: 17px;
+    width: 332px;
+}
+.phone{
+    width: 315px;
+    border-radius: 6px;
+    padding: 14px 16px;
+    text-align: left;
+    font-family: inherit;
+}  
+.but{
+    margin: 10px 31px;
+    display: inline-block;
+    background-color:#fff;
+    
+
+} 
+button{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0px 10px;
+    width: 332px;
+    font-family: inherit;
+    color: #fff;
+    cursor: pointer;
+    box-sizing: content-box;
+    margin: 0px -8px;
+
+    
+}.forgotten{
+       
+    margin: 10px 74px;
+    font-family: inherit;
+    text-align: center;
+
+}.forgot{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    
+    cursor: pointer;
+    text-decoration: none;
+}
+.border{
+    border-bottom: 1px solid #dadde1;
+    margin: 20px 16px;
+}.role{
+    
+    text-align: center;
+    
+   
+}.account{
+   
+   box-sizing: content-box;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    font-family: inherit;
+    background-color:#42b72a;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0px 8px;
+    
+}.page{
+    
+    float: right;
+    background-color:;
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 27px;
+}a{
+    cursor: pointer;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+  .a{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    
+    
+   
+} 
+.bottemftr{
+    padding-top: 0px;
+    background-color: #fff;
+    
+}.foot{
+    padding-top: 8px;
+    color:#8a8d91;
+    margin: 0 auto;
+    width: 980px;
+    cursor: pointer;
+    line-height: 1.6;
+    display: flex;
+
+}#footer{
+    color:#8a8d91;
+    margin: 0 auto;
+    width: 980px;
+    cursor: pointer;
+    line-height: 1.6;
+    
+
+}
+.blok{
+    height: 18px;
+    line-height: 18px;
+    width: 12px;
+    background-color: #f5f6f7;
+    border-color: #0f1113;
+    box-sizing: content-box;
+    
+    
+}.imgg{
+    background-image:url(https://pngimg.com/uploads/plus/plus_PNG62.png);
+}
+  li{
+    list-style-type: none;
+    float: left;
+    font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+  }   
+    
+#content_curve{
+    border-bottom: 1px solid #dddfe2;
+font-size: 1px;
+height: 8px;
+margin-bottom: 8px;
+
+}.last{
+    
+    color:#737373;;
+    margin-top: 80px;
+    margin-bottom: 14px;
+    width: 980px;
+    cursor: pointer;
+    line-height: 1.6;
+    margin-left: 260px;
+    
+    
+    
+}span{
+    font-size: 11px;
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+}
+
+
+
+    
